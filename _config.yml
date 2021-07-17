@@ -5,7 +5,7 @@ description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/다운로드.jfif'
-background:         'assets/img/배경.jpg'
+background:         'assets/img/다운로드.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 # url:                https://taylantatli.github.io/Moon
